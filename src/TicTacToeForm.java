@@ -201,7 +201,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton6.setBackground(Color.yellow);
         }
         if (b1 == "O" && b5 == "O" && b9 == "O") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -282,13 +282,13 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(0, 153, 153));
+        jPanel1.setBackground(new java.awt.Color(23, 117, 232));
         jPanel1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 51, 51), 2, true));
         jPanel1.setPreferredSize(new java.awt.Dimension(600, 400));
         jPanel1.setLayout(new java.awt.BorderLayout());
 
         jLabel1.setBackground(new java.awt.Color(102, 102, 102));
-        jLabel1.setFont(new java.awt.Font("Dialog", 1, 36)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Comfortaa", 1, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(51, 51, 51));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("X - O Game");
@@ -468,7 +468,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
         jPanel16.setBackground(new java.awt.Color(255, 255, 255));
         jPanel16.setLayout(new java.awt.BorderLayout());
 
-        ResetButton.setFont(new java.awt.Font("Consolas", 1, 24)); // NOI18N
+        ResetButton.setFont(new java.awt.Font("Comfortaa", 1, 24)); // NOI18N
         ResetButton.setText("Reset");
         ResetButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -482,7 +482,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
         jPanel17.setBackground(new java.awt.Color(255, 255, 255));
         jPanel17.setLayout(new java.awt.BorderLayout());
 
-        ExitButton.setFont(new java.awt.Font("Consolas", 1, 24)); // NOI18N
+        ExitButton.setFont(new java.awt.Font("Comfortaa", 1, 24)); // NOI18N
         ExitButton.setText("Exit");
         ExitButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
