@@ -95,7 +95,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         //FOR X
         if (b1 == "X" && b2 == "X" && b3 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -103,7 +103,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton3.setBackground(Color.yellow);
         }
         if (b4 == "X" && b5 == "X" && b6 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton4.setBackground(Color.yellow);
@@ -111,7 +111,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton6.setBackground(Color.yellow);
         }
         if (b7 == "X" && b8 == "X" && b9 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton7.setBackground(Color.yellow);
@@ -119,7 +119,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton9.setBackground(Color.yellow);
         }
         if (b1 == "X" && b4 == "X" && b7 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -127,7 +127,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton7.setBackground(Color.yellow);
         }
         if (b1 == "X" && b5 == "X" && b9 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -135,7 +135,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton9.setBackground(Color.yellow);
         }
         if (b3 == "X" && b5 == "X" && b7 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton3.setBackground(Color.yellow);
@@ -143,7 +143,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton7.setBackground(Color.yellow);
         }
         if (b1 == "X" && b5 == "X" && b9 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -151,7 +151,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton9.setBackground(Color.yellow);
         }
         if (b2 == "X" && b5 == "X" && b8 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton2.setBackground(Color.yellow);
@@ -159,7 +159,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton8.setBackground(Color.yellow);
         }
         if (b3 == "X" && b6 == "X" && b9 == "X") {
-            JOptionPane.showMessageDialog(this, "Player X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "X Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             xCount++;
             gameScore();
             jButton3.setBackground(Color.yellow);
@@ -169,7 +169,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         //FOR O
         if (b1 == "O" && b2 == "O" && b3 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -177,7 +177,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton3.setBackground(Color.yellow);
         }
         if (b4 == "O" && b5 == "O" && b6 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton4.setBackground(Color.yellow);
@@ -185,7 +185,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton6.setBackground(Color.yellow);
         }
         if (b7 == "O" && b8 == "O" && b9 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton7.setBackground(Color.yellow);
@@ -193,7 +193,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton9.setBackground(Color.yellow);
         }
         if (b1 == "O" && b4 == "O" && b7 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton4.setBackground(Color.yellow);
@@ -201,7 +201,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton6.setBackground(Color.yellow);
         }
         if (b1 == "O" && b5 == "O" && b9 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -217,7 +217,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton7.setBackground(Color.yellow);
         }
         if (b1 == "O" && b5 == "O" && b9 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton1.setBackground(Color.yellow);
@@ -225,7 +225,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton9.setBackground(Color.yellow);
         }
         if (b2 == "O" && b5 == "O" && b8 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton2.setBackground(Color.yellow);
@@ -233,7 +233,7 @@ public class TicTacToeForm extends javax.swing.JFrame {
             jButton8.setBackground(Color.yellow);
         }
         if (b3 == "O" && b6 == "O" && b9 == "O") {
-            JOptionPane.showMessageDialog(this, "Player O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "O Wins !", "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             oCount++;
             gameScore();
             jButton3.setBackground(Color.yellow);
@@ -282,14 +282,14 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(23, 117, 232));
+        jPanel1.setBackground(new java.awt.Color(0, 0, 0));
         jPanel1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 51, 51), 2, true));
         jPanel1.setPreferredSize(new java.awt.Dimension(600, 400));
         jPanel1.setLayout(new java.awt.BorderLayout());
 
-        jLabel1.setBackground(new java.awt.Color(102, 102, 102));
+        jLabel1.setBackground(new java.awt.Color(0, 0, 0));
         jLabel1.setFont(new java.awt.Font("Comfortaa", 1, 36)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(51, 51, 51));
+        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("X - O Game");
         jPanel1.add(jLabel1, java.awt.BorderLayout.PAGE_START);
@@ -339,10 +339,10 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel5);
 
-        jPanel6.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel6.setBackground(new java.awt.Color(0, 0, 0));
         jPanel6.setLayout(new java.awt.BorderLayout());
 
-        jLabel2.setBackground(new java.awt.Color(153, 153, 153));
+        jLabel2.setBackground(new java.awt.Color(0, 0, 0));
         jLabel2.setFont(new java.awt.Font("Comfortaa", 1, 120)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(232, 23, 78));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -351,10 +351,12 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel6);
 
-        jPanel7.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel7.setBackground(new java.awt.Color(0, 0, 0));
         jPanel7.setLayout(new java.awt.BorderLayout());
 
-        LabelPlayerX.setFont(new java.awt.Font("Comfortaa", 1, 95)); // NOI18N
+        LabelPlayerX.setBackground(new java.awt.Color(0, 0, 0));
+        LabelPlayerX.setFont(new java.awt.Font("Comfortaa", 0, 90)); // NOI18N
+        LabelPlayerX.setForeground(new java.awt.Color(255, 255, 255));
         LabelPlayerX.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jPanel7.add(LabelPlayerX, java.awt.BorderLayout.CENTER);
 
@@ -402,10 +404,10 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel10);
 
-        jPanel11.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel11.setBackground(new java.awt.Color(0, 0, 0));
         jPanel11.setLayout(new java.awt.BorderLayout());
 
-        jLabel3.setBackground(new java.awt.Color(153, 153, 153));
+        jLabel3.setBackground(new java.awt.Color(0, 0, 0));
         jLabel3.setFont(new java.awt.Font("Comfortaa", 1, 95)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(23, 117, 232));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -414,10 +416,12 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel11);
 
-        jPanel12.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel12.setBackground(new java.awt.Color(0, 0, 0));
         jPanel12.setLayout(new java.awt.BorderLayout());
 
-        LabelPlayerO.setFont(new java.awt.Font("Comfortaa", 1, 95)); // NOI18N
+        LabelPlayerO.setBackground(new java.awt.Color(0, 0, 0));
+        LabelPlayerO.setFont(new java.awt.Font("Comfortaa", 0, 90)); // NOI18N
+        LabelPlayerO.setForeground(new java.awt.Color(255, 255, 255));
         LabelPlayerO.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jPanel12.add(LabelPlayerO, java.awt.BorderLayout.CENTER);
 
@@ -465,10 +469,12 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel15);
 
-        jPanel16.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel16.setBackground(new java.awt.Color(0, 0, 0));
         jPanel16.setLayout(new java.awt.BorderLayout());
 
-        ResetButton.setFont(new java.awt.Font("Comfortaa", 1, 24)); // NOI18N
+        ResetButton.setBackground(new java.awt.Color(51, 51, 51));
+        ResetButton.setFont(new java.awt.Font("Comfortaa", 1, 30)); // NOI18N
+        ResetButton.setForeground(new java.awt.Color(255, 255, 255));
         ResetButton.setText("Reset");
         ResetButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -479,10 +485,12 @@ public class TicTacToeForm extends javax.swing.JFrame {
 
         jPanel2.add(jPanel16);
 
-        jPanel17.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel17.setBackground(new java.awt.Color(0, 0, 0));
         jPanel17.setLayout(new java.awt.BorderLayout());
 
-        ExitButton.setFont(new java.awt.Font("Comfortaa", 1, 24)); // NOI18N
+        ExitButton.setBackground(new java.awt.Color(51, 51, 51));
+        ExitButton.setFont(new java.awt.Font("Comfortaa", 1, 30)); // NOI18N
+        ExitButton.setForeground(new java.awt.Color(255, 255, 255));
         ExitButton.setText("Exit");
         ExitButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
